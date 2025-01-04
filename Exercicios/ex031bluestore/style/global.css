@@ -187,7 +187,6 @@ main {
 
 .cols {
     display: grid;
-    align-items: center;
     justify-content: space-evenly;
     padding: 4rem 1rem;
 }
